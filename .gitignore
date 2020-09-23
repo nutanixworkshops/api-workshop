@@ -1,3 +1,7 @@
-
+# Unneeded files
 ScreenCaps/README.drawio
 .DS_Store
+
+# Build Directories
+_build
+build*
